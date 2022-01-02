@@ -1,0 +1,15 @@
+h1{
+    background-color: navy;
+}
+.todos{
+    background-color: aqua;
+}
+.practice{
+    color:blueviolet;
+}
+
+.practice span{
+    color: green;
+    font-size: larger;
+    font-weight: 500;
+}
